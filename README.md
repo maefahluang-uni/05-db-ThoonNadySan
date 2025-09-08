@@ -15,7 +15,8 @@ In UserRepository, declare the following methods that help to find all user and 
 - `data.sql` contains insert statements for dummy users. Find where this file is and explain what it is used for? 
 
 ```
-Your answer
+The data.sql file is located in the src/main/resources folder in a standard Spring Boot or Java-based application.
+It is used for auto-inserts test/dummy into the database.
 ```
 
 ## User Reservice - Complete the code
